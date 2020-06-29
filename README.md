@@ -1,6 +1,6 @@
 ## Playing with IRIS Dataset
 
-1. To Implement a Linear Discriminant Model to Classify the Iris Setosa, Iris Versicolot & Iris Virginica Iris Dataset based on the Features- Sepal Length, Sepal Width, Petal Length & Petal Width (cm).
+1. To Implement a Linear Discriminant Model to Classify the Iris Setosa, Iris Versicolor & Iris Virginica based on the Features- Sepal Length, Sepal Width, Petal Length & Petal Width (cm) of the Flowers.
 <p align="center">
     <img width="750" height="250" src = 'https://github.com/aviralchharia/Playing-with-IRIS-Dataset/blob/master/Versicolor,%20Setosa,%20Virginica.png?raw=true'>
 </p>
