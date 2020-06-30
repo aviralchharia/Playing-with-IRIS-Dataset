@@ -23,4 +23,4 @@
       <img width="550" height="300" src = 'https://github.com/aviralchharia/Playing-with-IRIS-Dataset/blob/master/Minimum%20Norm%20Solution.png?raw=true'>
   </p>
 
-4. Finally, we analyse the Iris Dataset using Exploratory Data Analysis Techniques.
+4. Finally, we analyse the Iris Dataset using Exploratory Data Analysis & explore other different Techniques to Classify the IRIS Dataset with Higher Accuracy & obtain better Results.
