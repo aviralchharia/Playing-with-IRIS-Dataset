@@ -1,4 +1,4 @@
-## Playing with IRIS Dataset
+## Least Square & Minimum Norm Solution (Linear Discriminant Model on IRIS Dataset)
 
 1. To Implement a Linear Discriminant Model to Classify the Iris Setosa, Iris Versicolor & Iris Virginica based on the Features- Sepal Length, Sepal Width, Petal Length & Petal Width (cm) of the Flowers.
 <p align="center">
